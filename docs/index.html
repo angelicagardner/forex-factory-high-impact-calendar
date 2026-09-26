@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>USD High Impact Calendar</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 3rem auto; padding: 0 1rem; line-height: 1.5; }
+    code { background: #f2f2f2; padding: 0.1rem 0.3rem; border-radius: 4px; word-break: break-all; }
+  </style>
+</head>
+<body>
+  <h1>USD High Impact Calendar</h1>
+  <p>High-impact US economic events (CPI, jobs report, Fed decisions and more), filtered from the Forex Factory weekly feed and updated daily.</p>
+  <p>Subscribe in Google Calendar: <b>Other calendars &gt; + &gt; From URL</b>, then paste:</p>
+  <p><code id="url">usd-high-impact.ics</code></p>
+  <p>Times are in UTC in the file; your calendar shows them in your own time zone.</p>
+  <p><small>Data: <a href="https://www.forexfactory.com/calendar">Forex Factory</a>. Not affiliated. Not financial advice.</small></p>
+  <script>
+    document.getElementById("url").textContent = new URL("usd-high-impact.ics", location.href).href;
+  </script>
+</body>
+</html>

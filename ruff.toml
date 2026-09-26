@@ -1,0 +1,33 @@
+# Ruff configuration. Run: ruff check . && ruff format --check .
+target-version = "py310"  # Path.write_text(newline=...) needs 3.10
+line-length = 88
+
+[lint]
+select = [
+    "E",    # pycodestyle errors
+    "W",    # pycodestyle warnings
+    "F",    # pyflakes
+    "I",    # import sorting
+    "UP",   # pyupgrade
+    "B",    # bugbear
+    "C4",   # comprehensions
+    "SIM",  # simplify
+    "PL",   # pylint
+    "RET",  # return style
+    "PTH",  # use pathlib
+    "S",    # bandit
+    "DTZ",  # naive datetimes
+    "TRY",  # error handling
+    "RUF",
+]
+ignore = [
+    "T201",    # print() is the output channel of this script
+    "TRY003",  # long messages outside exception classes are fine here
+    "TRY300",  # return in try body reads better than else here
+    "EM101",
+    "EM102",
+]
+
+[lint.per-file-ignores]
+# asserts, literal values and wide helper signatures are the point of tests
+"tests/*" = ["S101", "PLR2004", "PLR0913", "PLR0917"]
