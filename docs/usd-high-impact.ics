@@ -7,4 +7,54 @@ X-WR-CALNAME:USD High Impact
 X-WR-CALDESC:High-impact USD economic events from the Forex Factory feed
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:9376b20743c4f097bf79@usd-high-impact
+DTSTAMP:20260927T103350Z
+DTSTART:20260930T123000Z
+DTEND:20260930T124500Z
+SUMMARY:USD: Core PCE Price Index m/m
+DESCRIPTION:Forecast: 0.3%\nPrevious: 0.2%\nSource: Forex Factory\, https:/
+ /www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:76e97f0559e115ea429f@usd-high-impact
+DTSTAMP:20260927T103350Z
+DTSTART:20260930T123000Z
+DTEND:20260930T124500Z
+SUMMARY:USD: Final GDP q/q
+DESCRIPTION:Forecast: 1.5%\nPrevious: 1.5%\nSource: Forex Factory\, https:/
+ /www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b3820ffb6f1a50a6f5ad@usd-high-impact
+DTSTAMP:20260927T103350Z
+DTSTART:20261002T123000Z
+DTEND:20261002T124500Z
+SUMMARY:USD: Average Hourly Earnings m/m
+DESCRIPTION:Forecast: 0.3%\nPrevious: 0.3%\nSource: Forex Factory\, https:/
+ /www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c4a5a7c55f81b1686b50@usd-high-impact
+DTSTAMP:20260927T103350Z
+DTSTART:20261002T123000Z
+DTEND:20261002T124500Z
+SUMMARY:USD: Non-Farm Employment Change
+DESCRIPTION:Forecast: 98K\nPrevious: 162K\nSource: Forex Factory\, https://
+ www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:38d5dcfba50e25af8fa8@usd-high-impact
+DTSTAMP:20260927T103350Z
+DTSTART:20261002T123000Z
+DTEND:20261002T124500Z
+SUMMARY:USD: Unemployment Rate
+DESCRIPTION:Forecast: 4.1%\nPrevious: 4.1%\nSource: Forex Factory\, https:/
+ /www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

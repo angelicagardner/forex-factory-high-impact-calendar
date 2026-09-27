@@ -1,1 +1,47 @@
-{}
+{
+  "9376b20743c4f097bf79@usd-high-impact": {
+    "uid": "9376b20743c4f097bf79@usd-high-impact",
+    "country": "USD",
+    "title": "Core PCE Price Index m/m",
+    "start": "2026-09-30T12:30:00+00:00",
+    "forecast": "0.3%",
+    "previous": "0.2%",
+    "stamp": "20260927T103350Z"
+  },
+  "76e97f0559e115ea429f@usd-high-impact": {
+    "uid": "76e97f0559e115ea429f@usd-high-impact",
+    "country": "USD",
+    "title": "Final GDP q/q",
+    "start": "2026-09-30T12:30:00+00:00",
+    "forecast": "1.5%",
+    "previous": "1.5%",
+    "stamp": "20260927T103350Z"
+  },
+  "b3820ffb6f1a50a6f5ad@usd-high-impact": {
+    "uid": "b3820ffb6f1a50a6f5ad@usd-high-impact",
+    "country": "USD",
+    "title": "Average Hourly Earnings m/m",
+    "start": "2026-10-02T12:30:00+00:00",
+    "forecast": "0.3%",
+    "previous": "0.3%",
+    "stamp": "20260927T103350Z"
+  },
+  "c4a5a7c55f81b1686b50@usd-high-impact": {
+    "uid": "c4a5a7c55f81b1686b50@usd-high-impact",
+    "country": "USD",
+    "title": "Non-Farm Employment Change",
+    "start": "2026-10-02T12:30:00+00:00",
+    "forecast": "98K",
+    "previous": "162K",
+    "stamp": "20260927T103350Z"
+  },
+  "38d5dcfba50e25af8fa8@usd-high-impact": {
+    "uid": "38d5dcfba50e25af8fa8@usd-high-impact",
+    "country": "USD",
+    "title": "Unemployment Rate",
+    "start": "2026-10-02T12:30:00+00:00",
+    "forecast": "4.1%",
+    "previous": "4.1%",
+    "stamp": "20260927T103350Z"
+  }
+}
