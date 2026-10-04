@@ -43,5 +43,14 @@
     "forecast": "4.1%",
     "previous": "4.1%",
     "stamp": "20260927T103350Z"
+  },
+  "5ead558dc50032f84fbd@usd-high-impact": {
+    "uid": "5ead558dc50032f84fbd@usd-high-impact",
+    "country": "USD",
+    "title": "FOMC Meeting Minutes",
+    "start": "2026-10-07T18:00:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261004T110718Z"
   }
 }

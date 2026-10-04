@@ -57,4 +57,13 @@ DESCRIPTION:Forecast: 4.1%\nPrevious: 4.1%\nSource: Forex Factory\, https:/
  /www.forexfactory.com/calendar
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:5ead558dc50032f84fbd@usd-high-impact
+DTSTAMP:20261004T110718Z
+DTSTART:20261007T180000Z
+DTEND:20261007T181500Z
+SUMMARY:USD: FOMC Meeting Minutes
+DESCRIPTION:Source: Forex Factory\, https://www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
