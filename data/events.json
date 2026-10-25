@@ -133,5 +133,50 @@
     "forecast": "",
     "previous": "",
     "stamp": "20261011T112455Z"
+  },
+  "13fe7deab254b70f351f@usd-high-impact": {
+    "uid": "13fe7deab254b70f351f@usd-high-impact",
+    "country": "USD",
+    "title": "FOMC Statement",
+    "start": "2026-10-28T18:00:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261025T094922Z"
+  },
+  "5c86759277592db5c7de@usd-high-impact": {
+    "uid": "5c86759277592db5c7de@usd-high-impact",
+    "country": "USD",
+    "title": "Federal Funds Rate",
+    "start": "2026-10-28T18:00:00+00:00",
+    "forecast": "4.00%",
+    "previous": "4.00%",
+    "stamp": "20261025T094922Z"
+  },
+  "b21f821bb38f5dc40455@usd-high-impact": {
+    "uid": "b21f821bb38f5dc40455@usd-high-impact",
+    "country": "USD",
+    "title": "FOMC Press Conference",
+    "start": "2026-10-28T18:30:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261025T094922Z"
+  },
+  "e0bf3b287fc7cca7995d@usd-high-impact": {
+    "uid": "e0bf3b287fc7cca7995d@usd-high-impact",
+    "country": "USD",
+    "title": "Advance GDP q/q",
+    "start": "2026-10-29T12:30:00+00:00",
+    "forecast": "3.2%",
+    "previous": "1.5%",
+    "stamp": "20261025T094922Z"
+  },
+  "6d8ef5e268f7be415762@usd-high-impact": {
+    "uid": "6d8ef5e268f7be415762@usd-high-impact",
+    "country": "USD",
+    "title": "Core PCE Price Index m/m",
+    "start": "2026-10-29T12:30:00+00:00",
+    "forecast": "0.3%",
+    "previous": "0.2%",
+    "stamp": "20261025T094922Z"
   }
 }
