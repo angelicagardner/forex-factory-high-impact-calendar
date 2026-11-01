@@ -178,5 +178,41 @@
     "forecast": "0.3%",
     "previous": "0.2%",
     "stamp": "20261025T094922Z"
+  },
+  "777aa50ad3e8588d6f8d@usd-high-impact": {
+    "uid": "777aa50ad3e8588d6f8d@usd-high-impact",
+    "country": "USD",
+    "title": "Congressional Elections",
+    "start": "2026-11-03T15:16:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261101T115057Z"
+  },
+  "4f53e4261da7008dc2ce@usd-high-impact": {
+    "uid": "4f53e4261da7008dc2ce@usd-high-impact",
+    "country": "USD",
+    "title": "Average Hourly Earnings m/m",
+    "start": "2026-11-06T13:30:00+00:00",
+    "forecast": "0.3%",
+    "previous": "0.1%",
+    "stamp": "20261101T115057Z"
+  },
+  "d3551f4453bed93f9d37@usd-high-impact": {
+    "uid": "d3551f4453bed93f9d37@usd-high-impact",
+    "country": "USD",
+    "title": "Non-Farm Employment Change",
+    "start": "2026-11-06T13:30:00+00:00",
+    "forecast": "63K",
+    "previous": "29K",
+    "stamp": "20261101T115057Z"
+  },
+  "e41d082d5c5a11ea5349@usd-high-impact": {
+    "uid": "e41d082d5c5a11ea5349@usd-high-impact",
+    "country": "USD",
+    "title": "Unemployment Rate",
+    "start": "2026-11-06T13:30:00+00:00",
+    "forecast": "4.2%",
+    "previous": "4.2%",
+    "stamp": "20261101T115057Z"
   }
 }
