@@ -242,4 +242,44 @@ DESCRIPTION:Forecast: 4.2%\nPrevious: 4.2%\nSource: Forex Factory\, https:/
  /www.forexfactory.com/calendar
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:4d08993031db5d155d1d@usd-high-impact
+DTSTAMP:20261108T115636Z
+DTSTART:20261110T133000Z
+DTEND:20261110T134500Z
+SUMMARY:USD: CPI m/m
+DESCRIPTION:Forecast: 0.3%\nPrevious: 0.6%\nSource: Forex Factory\, https:/
+ /www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4672361d33f8a58ce27a@usd-high-impact
+DTSTAMP:20261108T115636Z
+DTSTART:20261110T133000Z
+DTEND:20261110T134500Z
+SUMMARY:USD: Core CPI m/m
+DESCRIPTION:Forecast: 0.2%\nPrevious: 0.3%\nSource: Forex Factory\, https:/
+ /www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0739cac24ee483ef3584@usd-high-impact
+DTSTAMP:20261108T115636Z
+DTSTART:20261113T133000Z
+DTEND:20261113T134500Z
+SUMMARY:USD: Core PPI m/m
+DESCRIPTION:Forecast: 0.3%\nPrevious: 0.7%\nSource: Forex Factory\, https:/
+ /www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5f52f3f588dfc12015a9@usd-high-impact
+DTSTAMP:20261108T115636Z
+DTSTART:20261113T133000Z
+DTEND:20261113T134500Z
+SUMMARY:USD: PPI m/m
+DESCRIPTION:Forecast: 0.4%\nPrevious: 1.3%\nSource: Forex Factory\, https:/
+ /www.forexfactory.com/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
